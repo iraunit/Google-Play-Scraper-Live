@@ -1,0 +1,17 @@
+{
+  "name": "play-store-scraper",
+  "version": "1.0.0",
+  "description": "Google Play Store App Data Scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Raunit Verma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "google-play-scraper": "^10.0.0",
+    "morgan": "^1.10.0"
+  }
+}
